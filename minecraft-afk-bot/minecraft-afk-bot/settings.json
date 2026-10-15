@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "YOUR_SERVER_IP",
-    "port": 25565,
+    "ip": "VTXsmp.aternos.me:45968",
+    "port": 45968,
     "version": "",
     "try-creative": false
   },
